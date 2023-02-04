@@ -1,0 +1,58 @@
+10
+1001
+Veg Margherita
+259
+30
+1002
+Fresh Veggie Special
+399
+25
+1003
+Classic Margherita
+299
+25
+1004
+Non-veg Feast
+599
+20
+1005
+Pepperoni Pizza
+399
+20
+1006
+Cheese Burst
+399
+30
+1007
+Mexican Delight
+459
+25
+1008
+Spicy Treat
+299
+30
+1009
+American Heat
+559
+15
+1010
+Mushroom Riot
+269
+10
+Yes
+2001
+2
+American Heat
+10
+Mushroom Riot
+5
+Yes
+2002
+3
+Veg Margherita
+5
+Cheese Burst
+10
+Non-veg Feast
+5
+No
